@@ -1,0 +1,30 @@
+The name of the element nr 0 and its name is Vacuum_0
+The beginning is 0.000000e+00 and the end 4.000000e-03 and the distance between them is 4.000000e-03
+The right surface is flat
+The left surface is convex
+
+The name of the element nr 1 and its name is Quartz
+The beginning is 4.000000e-03 and the end 5.000000e-03 and the distance between them is 1.000000e-03
+The right surface is flat
+The left surface is flat
+
+The name of the element nr 2 and its name is Piezo
+The beginning is 5.000000e-03 and the end 5.000450e-03 and the distance between them is 4.500000e-07
+The right surface is concave
+The left surface is flat
+
+The name of the element nr 3 and its name is Vacuum_1
+The beginning is 5.000450e-03 and the end 5.003450e-03 and the distance between them is 3.000000e-06
+The right surface is flat
+The left surface is convex
+
+The name of the element nr 4 and its name is chip
+The beginning is 5.003450e-03 and the end 5.433450e-03 and the distance between them is 4.300000e-04
+The right surface is flat
+The left surface is flat
+
+The name of the element nr 5 and its name is Vacuum_2
+The beginning is 5.433450e-03 and the end 1.099445e-02 and the distance between them is 5.561000e-03
+The right surface is concave
+The left surface is flat
+
